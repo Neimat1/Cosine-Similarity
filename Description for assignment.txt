@@ -1,0 +1,11 @@
+This is a description for Assignment to help understand:
+Structure of project:
+	we have 3 main classes
+	1- cosineSimilarity.java => here is main functions 
+	2- Main.java => to run the code
+	3- SimilarityInOrder.java => implement Comparable to order the cosineSimilarity
+
+
+note: in Main.java =>
+	we call function called main() that call all functions in it
+	
